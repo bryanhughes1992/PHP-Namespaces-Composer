@@ -1,6 +1,11 @@
 <?php
 namespace Humber\Model;
-require_once 'vendor/autoload.php';
+//require_once 'vendor/autoload.php';
+/*
+I kept the above line in because it broke the program,
+I spent a lot of time figuring out its not needed and wanted to show you.
+*/
+
 
 /**
  * CARS MODEL
